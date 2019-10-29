@@ -6,6 +6,7 @@ Yellow
 Unicorn.
 red
 blue
+INDIGO
 orange
 
 These are colors.
